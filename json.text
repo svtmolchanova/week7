@@ -1,0 +1,21 @@
+{
+	"type":"transport",
+	"parameters": [
+		{
+			"capacity": 50
+		},
+		{
+			"armor": 100
+		},
+		{
+			"fuel": 500
+		},
+		{
+			"fuelType": "petrol"
+		},
+		{
+			"name": "Voctory"
+		}
+		]
+
+}
